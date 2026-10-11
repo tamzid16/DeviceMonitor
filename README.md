@@ -30,14 +30,14 @@ DeviceMonitor stores account profiles and monitoring data locally on your Androi
 
 **Sign In**
 
-<img src="docs/screenshots/login.png" alt="Sign in screen" width="100%">
+<img src="docs/screenshots/opening.jpg" alt="Opening screen Animation" width="100%">
 
 </td>
 <td width="50%">
 
-**Registration**
+**Sign In**
 
-<img src="docs/screenshots/registration.png" alt="Registration screen" width="100%">
+<img src="docs/screenshots/log in.jpg" alt="Sign in screen" width="100%">
 
 </td>
 </tr>
@@ -46,14 +46,14 @@ DeviceMonitor stores account profiles and monitoring data locally on your Androi
 
 **Dashboard**
 
-<img src="docs/screenshots/dashboard.png" alt="Monitoring dashboard" width="100%">
+<img src="docs/screenshots/dashboard.jpg" alt="Monitoring dashboard" width="100%">
 
 </td>
 <td>
 
 **Devices**
 
-<img src="docs/screenshots/devices.png" alt="Device management" width="100%">
+<img src="docs/screenshots/device.jpg" alt="Device management" width="100%">
 
 </td>
 </tr>
@@ -62,14 +62,14 @@ DeviceMonitor stores account profiles and monitoring data locally on your Androi
 
 **Sensor Details**
 
-<img src="docs/screenshots/sensor-details.png" alt="Sensor details and history" width="100%">
+<img src="docs/screenshots/add device.jpg" alt="Adding Sensors" width="100%">
 
 </td>
 <td>
 
 **Alerts**
 
-<img src="docs/screenshots/alerts.png" alt="Threshold alerts" width="100%">
+<img src="docs/screenshots/alerts.jpg" alt="Threshold alerts" width="100%">
 
 </td>
 </tr>
@@ -78,7 +78,7 @@ DeviceMonitor stores account profiles and monitoring data locally on your Androi
 
 **Settings and Data Management**
 
-<img src="docs/screenshots/settings.png" alt="Settings and data management" width="65%">
+<img src="docs/screenshots/settings.jpg" alt="Settings and data management" width="65%">
 
 </td>
 </tr>
