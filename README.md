@@ -25,64 +25,43 @@ DeviceMonitor stores account profiles and monitoring data locally on your Androi
 ## App Preview
 
 <table>
-<tr>
-<td width="50%">
-
-**Sign In**
-
-<img src="docs/screenshots/opening.jpg" alt="Opening screen Animation" width="100%">
-
-</td>
-<td width="50%">
-
-**Sign In**
-
-<img src="docs/screenshots/log in.jpg" alt="Sign in screen" width="100%">
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Dashboard**
-
-<img src="docs/screenshots/dashboard.jpg" alt="Monitoring dashboard" width="100%">
-
-</td>
-<td>
-
-**Devices**
-
-<img src="docs/screenshots/device.jpg" alt="Device management" width="100%">
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Sensor Details**
-
-<img src="docs/screenshots/add device.jpg" alt="Adding Sensors" width="100%">
-
-</td>
-<td>
-
-**Alerts**
-
-<img src="docs/screenshots/alerts.jpg" alt="Threshold alerts" width="100%">
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-**Settings and Data Management**
-
-<img src="docs/screenshots/settings.jpg" alt="Settings and data management" width="65%">
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <b>Opening Animation</b><br><br>
+      <img src="docs/screenshots/opening.jpg" alt="Opening screen Animation" width="130">
+    </td>
+    <td align="center" width="33%">
+      <b>Sign In</b><br><br>
+      <img src="docs/screenshots/log in.jpg" alt="Sign in screen" width="130">
+    </td>
+    <td align="center" width="33%">
+      <b>Dashboard</b><br><br>
+      <img src="docs/screenshots/dashboard.jpg" alt="Monitoring dashboard" width="130">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <b>Devices</b><br><br>
+      <img src="docs/screenshots/device.jpg" alt="Device management" width="130">
+    </td>
+    <td align="center" width="33%">
+      <b>Sensor Details</b><br><br>
+      <img src="docs/screenshots/add device.jpg" alt="Adding Sensors" width="130">
+    </td>
+    <td align="center" width="33%">
+      <b>Alerts</b><br><br>
+      <img src="docs/screenshots/alerts.jpg" alt="Threshold alerts" width="130">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <b>Settings & Data Management</b><br><br>
+      <img src="docs/screenshots/settings.jpg" alt="Settings and data management" width="130">
+    </td>
+  </tr>
 </table>
+
+---
 
 *Add genuine screenshots captured from the running application to `docs/screenshots/` using the filenames above.*
 
